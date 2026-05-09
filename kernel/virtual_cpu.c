@@ -1,6 +1,10 @@
 // SPDX-License-Identifier: GPL-2.0-only
-// [C] Mau 2026
-// © Gamer Mauri 2026
+/*
+ * carl/drivers/cpu.c
+ *
+ * Copyright (C) 2026 MDFJ
+ * CPU Information and Monitoring Driver Header
+ */
 
 #include "cpu.h"
 #include <iostream>
