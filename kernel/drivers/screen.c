@@ -2,7 +2,7 @@
 /*
  * carl/drivers/screen.c
  *
- * (C) Mau 2026
+ * Copyright (C) 2026 MDFJ
  *
  * VGA text mode display driver (80x25 characters, 16 colors)
  * Manages video memory and hardware cursor
