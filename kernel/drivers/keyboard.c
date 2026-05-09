@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
- * carl/drivers/timer.c
+ * carl/drivers/keyboard.c
  *
  * Copyright (C) 2026 MDFJ
  *
