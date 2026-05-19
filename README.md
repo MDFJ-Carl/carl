@@ -1,4 +1,6 @@
-text
+# Help to Claude AI (Anthropic) is write in spanish.
+
+# Writer/Uploader: mauriminuano125-a11y.
 
 # Carl Kernel Architecture Diagram
 
