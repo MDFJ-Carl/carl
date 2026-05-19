@@ -1,6 +1,6 @@
 # Carl
 
-Carl is an experimental open-source kernel project developed by the MDFJ organization.
+Carl is open-source kernel project developed by the MDFJ organization.
 
 The goal of Carl is to create the foundation for a future operating system called **Carl-OS**, focused on independence, low-level development, and future compatibility research with technologies inspired by Win32 and DirectX.
 
