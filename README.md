@@ -1,8 +1,8 @@
 # Help to Claude AI (Anthropic) is write in spanish.
 
-# Writer/Uploader: mauriminuano125-a11y.
+Writer/Uploader: mauriminuano125-a11y.
 
-# Carl Kernel Architecture Diagram
+Carl Kernel Architecture Diagram
 
 ## Boot Sequence (Secuencia de Inicio)
 
