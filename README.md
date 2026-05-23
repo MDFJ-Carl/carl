@@ -101,3 +101,17 @@ PORT    | DEVICE                  | USAGE
 0x43    | PIT Control Register    | Mode/divisor
 ────────────────────────────────────────────────
 0x60    
+```
+
+## Licenses:
+
+Carl primarily uses:
+- GPL 2.0
+
+Alternative licenses:
+
+- MPL-2.0
+
+- BSD 2-clause/3-clause
+
+- MIT
