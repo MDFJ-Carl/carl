@@ -2,6 +2,9 @@
 * Copyright (C) 2026 MDFJ
 * Copyright (c) mauriminuano125-a11y 2026
 * Copyright (c) Fire Mint - Organization official 2026 */
+
+/* main.c, formerly created by MDFJ, is now giving us errors. It was created by the Fire Mint community, specifically by mauriminuano125-a11y.*/
+/* Repository: https://github.com/mauriminuano125-a11y/firemint.git */
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
